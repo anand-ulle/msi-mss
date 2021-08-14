@@ -1,5 +1,6 @@
 fastai==2.4
 fastai2==0.0.30
 fastbook==0.0.16
-Pillow==8.3.1 
-voila==0.2.10 
+pillow==8.2.0 
+voila==0.2.10
+tk 
