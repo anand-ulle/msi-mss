@@ -18,4 +18,7 @@ Classification of Gastro intestinal cancer
 7. Enjoy coding... 
 
 
-
+![App](/imgs/1.png)
+![App](/imgs/2.png)
+![App](/imgs/3.png)
+![App](/imgs/4.png)
